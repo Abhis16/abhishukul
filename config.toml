@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://abhis16.github.io/abhishukul'
 languageCode = 'en-us'
 title = 'Abhi Shukul'
 theme = "cactus"
@@ -16,12 +16,12 @@ weight = 1
 
 [[menu.main]]
 name = "Projects"
-url = "/posts"
+url = "/projects"
 weight = 2
 
 [[menu.main]]
 name = "Blog Posts"
-url = "/tags"
+url = "/posts"
 weight = 3
 
 [[menu.main]]
