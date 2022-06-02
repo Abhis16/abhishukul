@@ -2,6 +2,7 @@ baseURL = 'https://abhis16.github.io/abhishukul'
 languageCode = 'en-us'
 title = 'Abhi Shukul'
 theme = "cactus"
+publishDir = "docs"
 
 [params]
     colortheme = "dark"
