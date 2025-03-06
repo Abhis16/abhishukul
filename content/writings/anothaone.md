@@ -1,7 +1,7 @@
 +++
-title = "Another post"
+title = "Second post"
 date = 2025-03-03
-description = "This is my second ever post on this website. That's cool I guess"
+description = "latex test"
 +++ 
 
 Recall from elementary school the generalized Stokes' theorem: 
