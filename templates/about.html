@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="welcome">
+    <h1>{{ section.title }}</h1>
+    {% if section.content %}
+        {{ section.content | safe }}
+    {% endif %}
+</section>
+{% endblock content %}

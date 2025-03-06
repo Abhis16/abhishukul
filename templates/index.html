@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="welcome">
+    <h1>{{ section.title }}</h1>
+    {% if section.content %}
+    {{ section.content | safe }}
+    {% endif %}
+</section>
+
+<figure>
+    <a class="homepage image" title="After Alexander Blaikley
+, Public domain, via Wikimedia Commons"
+        href="https://commons.wikimedia.org/wiki/File:Faraday_Michael_Christmas_lecture.jpg"><img width="512"
+            alt="Faraday Michael Christmas lecture"
+            src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Faraday_Michael_Christmas_lecture.jpg?20080528023620"></a>
+</figure>
+{% endblock content %}
