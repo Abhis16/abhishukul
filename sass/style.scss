@@ -5,10 +5,11 @@ $font-family-base: 'Playfair Display';
 $font-size-base: 16px;
 $line-height-base: 1.6;
 
-$color-text-primary: #1A1A1A;
-$color-text-secondary: #666666;
-$color-background: #FFFFFF;
-$color-border: #EAEAEA;
+// Dark theme colors
+$color-text-primary: #E5E5E5;
+$color-text-secondary: #A0A0A0;
+$color-background: #1A1A1A;
+$color-border: #333333;
 $color-accent: #c52862;
 
 $container-width: 600px;
@@ -149,16 +150,26 @@ main {
 
 // Code blocks
 pre {
-    background-color: darken($color-background, 3%);
+    background-color: lighten($color-background, 5%);
     border-radius: 4px;
     padding: 1rem;
     overflow-x: auto;
     margin-bottom: 1.5rem;
+    color: $color-text-primary;
+
+    code {
+        background-color: transparent;
+        padding: 0;
+    }
 }
 
 code {
     font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
     font-size: 0.9rem;
+    background-color: lighten($color-background, 5%);
+    padding: 0.2rem 0.4rem;
+    border-radius: 3px;
+    color: $color-text-primary;
 }
 
 // Blog post listing
@@ -243,15 +254,12 @@ footer {
     margin-top: 0;
 }
 
-// Dark mode toggle (optional)
-.dark-mode-toggle {
-    background: none;
-    border: none;
-    cursor: pointer;
-    margin-left: 1rem;
-    color: $color-text-secondary;
+// Image styling for dark theme
+img {
+    opacity: 0.95;
+    transition: opacity 0.2s;
 
     &:hover {
-        color: $color-text-primary;
+        opacity: 1;
     }
 }
