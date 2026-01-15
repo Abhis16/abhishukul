@@ -13,7 +13,7 @@ title = "Sub specie aeternitatis"
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
+highlighting.enabled = false
 
 [extra]
 # Put all your custom variables here
