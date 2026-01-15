@@ -10,9 +10,6 @@ build_search_index = false
 description = "Abhi's website"
 title = "Sub specie aeternitatis"
 
-[markdown.highlighting]
-enabled = false
-
 [extra]
 # Put all your custom variables here
 author = "Abhi Shukul"
