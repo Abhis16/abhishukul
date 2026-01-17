@@ -6,7 +6,7 @@ template = "about.html"
 Here are some links to some articles/blog posts (arbirarily ordered) I've found interesting. I suppose you can read them to ~~procrastinate~~ broaden your horizons.
 
 * [Universal Love, Said The Cactus Person - Scott Alexander](https://slatestarcodex.com/2015/04/21/universal-love-said-the-cactus-person/)
-* [Reduction 101: Dissolving the Question - Eliezer Yudkowsky](https://www.lesswrong.com/s/p3TndjYbdYaiWwm9x/p/Mc6QcrsbH5NRXbCRX)
+* [Reductionism 101: Dissolving the Question - Eliezer Yudkowsky](https://www.lesswrong.com/s/p3TndjYbdYaiWwm9x/p/Mc6QcrsbH5NRXbCRX)
 * [Lean into the pain - Aaron Swartz](https://web.archive.org/web/20230324060145/http://www.aaronsw.com/weblog/dalio)
 * [The Roots of Lisp - Paul Graham](https://www.paulgraham.com/rootsoflisp.html)
 * [The Qualities of Robert Musil - Roger Kimball](https://newcriterion.com/article/the-qualities-of-robert-musil/)
