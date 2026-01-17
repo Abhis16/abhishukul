@@ -15,6 +15,7 @@ title = "Sub specie aeternitatis"
 author = "Abhi Shukul"
 menu = [
   {name = "Writings", url = "/writings/"},
+  {name = "Misc.", url = "/misc/"},
   {name = "About", url = "/about/"},
 ]
 
