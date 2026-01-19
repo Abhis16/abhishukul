@@ -12,7 +12,6 @@ Here are links to some writings (arbitrarily ordered) I've found interesting. I 
 * [The Qualities of Robert Musil - Roger Kimball](https://newcriterion.com/article/the-qualities-of-robert-musil/)
 * [The Hovering Life - William H. Gass](https://www.nybooks.com/articles/1996/01/11/the-hovering-life/)
 * [André Weil's 1940 Letter to Simone Weil](https://www.ams.org/notices/200503/fea-weil.pdf)
-* [Récoltes et Semailles - Alexander Grothendieck](https://web.ma.utexas.edu/users/slaoui/notes/recoltes_et_semailles.pdf)
 * [The Usefulness of Useless Knowledge - Abraham Flexner](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [Did Wittgenstein Believe in God? - Duncan Richter](https://languagegoesonholiday.blogspot.com/2012/11/did-wittgenstein-believe-in-god.html)
 * [The Final Offshoring - Jacob Rintamaki](https://finaloffshoring.com/#table-of-contents)
